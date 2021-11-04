@@ -16,6 +16,7 @@
 14. 爱奇艺：https://so.iqiyi.com/so/q_{query}
 15. 优酷：https://www.soku.com/search_video/q_{query}
 16. GitHub：https://github.com/search?q={query}
+17. YouTube：https://www.youtube.com/results?q={query}
 
 
 ### Wox
