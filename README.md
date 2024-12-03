@@ -11,13 +11,16 @@
 
 ## 搜索链接
 
+- 抖音：<https://www.douyin.com/search/{query}>
+- TikTok：<https://www.tiktok.com/search?q={query}>
+- Facebook：<https://www.facebook.com/search/top/?q={query}>
+- X/Twitter：<https://twitter.com/search?q={query}>
+- YouTube：<https://www.youtube.com/results?q={query}>
 - 百度： <https://www.baidu.com/s?wd={query}>
 - Bing：<https://cn.bing.com/search?q={query}>
 - 雅虎：<https://search.yahoo.com/search?p={query}>
 - 360：<https://www.so.com/s?q={query}>
 - 维基：<https://www.wikipedia.org/w/index.php?search={query}>
-- Facebook：<https://www.facebook.com/search/top/?q={query}>
-- Twitter：<https://twitter.com/search?q={query}>
 - 天眼查：<https://www.tianyancha.com/search?key={query}>
 - 少数派：<https://sspai.com/search/post/{query}>
 - 微博： <https://s.weibo.com/weibo?q={query}>
@@ -30,7 +33,6 @@
 - Amazon：<https://www.amazon.com/s?k={query}>
 - 什么值得买： <http://search.smzdm.com/?s={query}>
 - 网易云音乐： <https://music.163.com/#/search/m/?s={query}>
-- 抖音：<https://www.douyin.com/search/{query}>
 - Bilibili： <https://search.bilibili.com/all?keyword={query}>
 - 腾讯视频：<https://v.qq.com/x/search/?q={query}>
 - 爱奇艺：<https://so.iqiyi.com/so/q_{query}>
@@ -40,6 +42,3 @@
 - 爱奇艺：<https://so.iqiyi.com/so/q_{query}>
 - 优酷：<https://www.soku.com/search_video/q_{query}>
 - GitHub：<https://github.com/search?q={query}>
-- YouTube：<https://www.youtube.com/results?q={query}>
-
-延伸：[Alfred Workflows](https://github.com/ssnhd/alfred)
