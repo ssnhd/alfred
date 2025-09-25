@@ -13,7 +13,6 @@
 
 - 抖音：<https://www.douyin.com/search/{query}>
 - TikTok：https://www.tiktok.com/search?q={query}
-- TikTok：<https://www.tiktok.com/search?q={query}>
 - 小红书：<https://www.xiaohongshu.com/search_result?keyword={query}>
 - Facebook：<https://www.facebook.com/search/top/?q={query}>
 - X/Twitter：<https://twitter.com/search?q={query}>
